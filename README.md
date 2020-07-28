@@ -26,3 +26,19 @@ Letsupgrade Blockchain Assignment are present in this repositoray
 ##### 2) blockchain_day3_assignment2.sol
          Make a Sample Contract on Remix.Ethereum.org and publish it in your GitHub?
 
+
+## **Day-4**
+
+##### 1) blockchain_day4_assignment1_project.pdf (Project Documentation)
+##### 2) blockchain_day4_assignment1_project.sol (Source Code)
+##### 3) README.md (Contract Hash)
+        Make an Ethereum based Report card Submission Smart Contract and
+	deploy it on Ropsten network
+
+	Input:
+		 Name, RollNO, Batch, Marks of 4 Subjects and Status(Pass or Fail)
+
+	
+	Host it on Ropsten Network with Test
+
+
