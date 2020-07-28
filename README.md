@@ -17,4 +17,12 @@ Letsupgrade Blockchain Assignment are present in this repositoray
    
 ##### 5) blockchain_day1_assignment5.pdf
          How is the verifiability of Blockchain has been attained?
-   
+
+## **Day-3**
+
+##### 1) blockchain_day3_assignment1.pdf
+	Experiment with Anders Blockchain?
+
+##### 2) blockchain_day3_assignment2.sol
+         Make a Sample Contract on Remix.Ethereum.org and publish it in your GitHub?
+
